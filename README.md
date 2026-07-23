@@ -82,12 +82,11 @@ PNCP (Programmable Numerically Controlled Charge Pump)** — A novel block that 
 ### FREQ_DIV (Programmable Frequency Divider)
 - Down-counter architecture for dynamic division ratio
 - Supports signed division values (for MASH compatibility)
-- 50% duty cycle for odd and even division ratios
 
 ### DCO (Digitally Controlled Oscillator)
 - Based on DCO_main_mux architecture
 - 8-stage distributed multiplexer structure
-- Frequency range: 294–523 MHz (depending on code)
+- Frequency range: 294–523 MHz (depending on code) to MASH
 
 ### NCO (Numerically Controlled Oscillator)
 - Fully digital frequency synthesizer
@@ -116,7 +115,6 @@ The `ADPLLs_TESTs` folder contains Python scripts for analyzing ADPLL output fre
 
 ### Features:
 - Loads frequency log files (TXT format)
-- Calculates mean frequency after lock
 - Visualizes original and smoothed frequency plots
 
 ---
