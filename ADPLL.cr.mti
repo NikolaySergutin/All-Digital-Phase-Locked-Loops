@@ -1,0 +1,83 @@
+{C:/Projects/All digital phase-locked loops/MASH_1-1.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/MASH_1-1.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MASH_11
+-- Compiling module MASH_1
+
+Top level modules:
+	MASH_11
+
+} {} {}} {C:/Projects/All digital phase-locked loops/ADPLLs_TBs.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/ADPLLs_TBs.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Frac_N_ADPLL_DCO_tb
+-- Compiling module Int_N_ADPLL_NCO_TDC_tb
+-- Compiling module Int_N_ADPLL_NCO_PNCP_tb
+
+Top level modules:
+	Frac_N_ADPLL_DCO_tb
+	Int_N_ADPLL_NCO_TDC_tb
+	Int_N_ADPLL_NCO_PNCP_tb
+
+} {} {}} {C:/Projects/All digital phase-locked loops/FREQ_DIV.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/FREQ_DIV.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FREQ_DIV
+
+Top level modules:
+	FREQ_DIV
+
+} {} {}} {C:/Projects/All digital phase-locked loops/NCO.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/NCO.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module NCO
+
+Top level modules:
+	NCO
+
+} {} {}} {C:/Projects/All digital phase-locked loops/LF_to_DCO.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/LF_to_DCO.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module LF_to_DCO
+
+Top level modules:
+	LF_to_DCO
+
+} {} {}} {C:/Projects/All digital phase-locked loops/PNCP.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/PNCP.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PNCP
+
+Top level modules:
+	PNCP
+
+} {} {}} {C:/Projects/All digital phase-locked loops/PFD.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/PFD.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PFD
+
+Top level modules:
+	PFD
+
+} {} {}} {C:/Projects/All digital phase-locked loops/TDC.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/TDC.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module TDC
+
+Top level modules:
+	TDC
+
+} {} {}} {C:/Projects/All digital phase-locked loops/DCO.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/DCO.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module DCO
+
+Top level modules:
+	DCO
+
+} {} {}} {C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_DCO.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_DCO.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Frac_N_ADPLL_DCO
+
+Top level modules:
+	Frac_N_ADPLL_DCO
+
+} {} {}} {C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_PNCP.v} {1 {vlog -work work -vopt -stats=none {C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_PNCP.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Int_N_ADPLL_NCO_PNCP
+
+Top level modules:
+	Int_N_ADPLL_NCO_PNCP
+
+} {} {}}
