@@ -1,0 +1,548 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Projects/All digital phase-locked loops
+T_opt
+!s110 1784832649
+VI9Ug:]6gGazmhL1hnED4N2
+Z1 04 19 4 work Frac_N_ADPLL_DCO_tb fast 0
+Z2 04 23 4 work Int_N_ADPLL_NCO_PNCP_tb fast 0
+=1-e8bfb8f4df71-6a626289-72-4988
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1784831247
+VB=HU05MYLmNz5b>kno=JT2
+R1
+04 19 4 work Frac_N_ADPLL_NCO_tb fast 0
+=1-e8bfb8f4df71-6a625d0f-1e9-a14
+R3
+R4
+n@_opt1
+R5
+R0
+T_opt2
+!s110 1784832272
+VVzfIQA1L6[H4iTYbQHSA:1
+R2
+R1
+=1-e8bfb8f4df71-6a62610f-363-49ec
+R3
+R4
+n@_opt2
+R5
+R0
+vDCO
+Z6 !s110 1784831631
+!i10b 1
+!s100 ObdU8fdePfCIUO5jb_[On3
+Z7 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ink_F[YJVn6e78g?>Z^PNZ2
+R0
+w1784831602
+8C:/Projects/All digital phase-locked loops/DCO.v
+FC:/Projects/All digital phase-locked loops/DCO.v
+!i122 64
+L0 3 74
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1784831631.000000
+!s107 C:/Projects/All digital phase-locked loops/DCO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/DCO.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@d@c@o
+vFrac_N_ADPLL_DCO
+!s110 1784831669
+!i10b 1
+!s100 NCROk:N6Q[Qf1MQSCRkYc1
+R7
+I>Ifaz3ZK5aBQi@I9Fm2db1
+R0
+w1784831662
+8C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_DCO.v
+FC:/Projects/All digital phase-locked loops/Frac-N_ADPLL_DCO.v
+!i122 66
+L0 3 72
+R8
+R9
+r1
+!s85 0
+31
+!s108 1784831669.000000
+!s107 C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_DCO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_DCO.v|
+!i113 0
+R11
+R4
+n@frac_@n_@a@d@p@l@l_@d@c@o
+vFrac_N_ADPLL_DCO_tb
+Z12 !s110 1784834300
+!i10b 1
+!s100 `WzaLN@]8khI@QaHURS1M3
+R7
+I@=_l6nA^3UlSmGN3nKD6g3
+R0
+Z13 w1784834296
+Z14 8C:/Projects/All digital phase-locked loops/ADPLLs_TBs.v
+Z15 FC:/Projects/All digital phase-locked loops/ADPLLs_TBs.v
+!i122 72
+L0 3 53
+R8
+R9
+r1
+!s85 0
+31
+Z16 !s108 1784834300.000000
+Z17 !s107 C:/Projects/All digital phase-locked loops/ADPLLs_TBs.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/ADPLLs_TBs.v|
+!i113 0
+R11
+R4
+n@frac_@n_@a@d@p@l@l_@d@c@o_tb
+vFrac_N_ADPLL_NCO
+!s110 1784830247
+!i10b 1
+!s100 lLUjkj]FWMNnF<]5O3BOg0
+R7
+I5G;0hXZ_Jen:@YD3=LCmN1
+R0
+w1784830244
+8C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_NCO.v
+FC:/Projects/All digital phase-locked loops/Frac-N_ADPLL_NCO.v
+!i122 58
+L0 3 76
+R8
+R9
+r1
+!s85 0
+31
+!s108 1784830247.000000
+!s107 C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_NCO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/Frac-N_ADPLL_NCO.v|
+!i113 0
+R11
+R4
+n@frac_@n_@a@d@p@l@l_@n@c@o
+vFrac_N_ADPLL_NCO_tb
+Z19 !s110 1784829630
+!i10b 1
+!s100 7=H`m:1Y0f@nY5QI?N]`Q1
+R7
+I3]z9F@fdDa@79ej9L7YlN2
+R0
+w1784828644
+R14
+R15
+!i122 51
+L0 112 69
+R8
+R9
+r1
+!s85 0
+31
+Z20 !s108 1784829630.000000
+R17
+R18
+!i113 0
+R11
+R4
+n@frac_@n_@a@d@p@l@l_@n@c@o_tb
+vFREQ_DIV
+Z21 !s110 1784829629
+!i10b 1
+!s100 UnAn6U_2QJg=@kYX:2oEW3
+R7
+I>[;m:DaRFZKRW9[5Zek_f0
+R0
+w1784807244
+8C:/Projects/All digital phase-locked loops/FREQ_DIV.v
+FC:/Projects/All digital phase-locked loops/FREQ_DIV.v
+!i122 41
+L0 3 27
+R8
+R9
+r1
+!s85 0
+31
+Z22 !s108 1784829629.000000
+!s107 C:/Projects/All digital phase-locked loops/FREQ_DIV.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/FREQ_DIV.v|
+!i113 0
+R11
+R4
+n@f@r@e@q_@d@i@v
+vInt_N_ADPLL_DCO
+!s110 1784830489
+!i10b 1
+!s100 cJZR3_eAFE:<NIC5=nflm2
+R7
+Iog[4;[<g^cVFI10aYgh742
+R0
+w1784830475
+8C:/Projects/All digital phase-locked loops/Int-N_ADPLL_DCO.v
+FC:/Projects/All digital phase-locked loops/Int-N_ADPLL_DCO.v
+!i122 60
+L0 3 57
+R8
+R9
+r1
+!s85 0
+31
+!s108 1784830489.000000
+!s107 C:/Projects/All digital phase-locked loops/Int-N_ADPLL_DCO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/Int-N_ADPLL_DCO.v|
+!i113 0
+R11
+R4
+n@int_@n_@a@d@p@l@l_@d@c@o
+vInt_N_ADPLL_DCO_tb
+!s110 1784831296
+!i10b 1
+!s100 NDmNSmgY4Qd^NH:L2VT;F0
+R7
+IbD:o[^?:3Sz8gF]OoFgHK0
+R0
+w1784831291
+R14
+R15
+!i122 63
+L0 58 52
+R8
+R9
+r1
+!s85 0
+31
+!s108 1784831296.000000
+R17
+R18
+!i113 0
+R11
+R4
+n@int_@n_@a@d@p@l@l_@d@c@o_tb
+vInt_N_ADPLL_NCO_PNCP
+!s110 1784832397
+!i10b 1
+!s100 ]eCDcfQ^zDzV0Oh[F[kO<1
+R7
+I3HeIei7KJIY0_9]`n]zPA3
+R0
+w1784832392
+8C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_PNCP.v
+FC:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_PNCP.v
+!i122 69
+L0 3 60
+R8
+R9
+r1
+!s85 0
+31
+!s108 1784832396.000000
+!s107 C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_PNCP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_PNCP.v|
+!i113 0
+R11
+R4
+n@int_@n_@a@d@p@l@l_@n@c@o_@p@n@c@p
+vInt_N_ADPLL_NCO_PNCP_tb
+R12
+!i10b 1
+!s100 KNnm2i8R4:_hUH[j]6mMo2
+R7
+I=XLYkQ>BSmhHIWGCYVPDJ3
+R0
+R13
+R14
+R15
+!i122 72
+Z23 L0 58 68
+R8
+R9
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 0
+R11
+R4
+n@int_@n_@a@d@p@l@l_@n@c@o_@p@n@c@p_tb
+vInt_N_ADPLL_NCO_TDC
+R19
+!i10b 1
+!s100 Th5Qkj^k]J7@BMiRS^R[c3
+R7
+IVSabJZ`FdD[DjTzhJ0QoT3
+R0
+w1784823132
+8C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_TDC.v
+FC:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_TDC.v
+!i122 48
+L0 3 61
+R8
+R9
+r1
+!s85 0
+31
+R20
+!s107 C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_TDC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/Int-N_ADPLL_NCO_TDC.v|
+!i113 0
+R11
+R4
+n@int_@n_@a@d@p@l@l_@n@c@o_@t@d@c
+vInt_N_ADPLL_NCO_TDC_tb
+R6
+!i10b 1
+!s100 4l^U`R>;GK`CV>WcEVTdI1
+R7
+I:AOV04zdVV47RN7mkP5kR0
+R0
+w1784831630
+R14
+R15
+!i122 65
+R23
+R8
+R9
+r1
+!s85 0
+31
+R10
+R17
+R18
+!i113 0
+R11
+R4
+n@int_@n_@a@d@p@l@l_@n@c@o_@t@d@c_tb
+vLF_to_DCO
+!s110 1784832617
+!i10b 1
+!s100 Odk3cJTBan_MOUiCAIm523
+R7
+Ik3K4>D^1>[jRNS[EKUAP23
+R0
+w1784832614
+8C:/Projects/All digital phase-locked loops/LF_to_DCO.v
+FC:/Projects/All digital phase-locked loops/LF_to_DCO.v
+!i122 70
+Z24 L0 3 51
+R8
+R9
+r1
+!s85 0
+31
+!s108 1784832617.000000
+!s107 C:/Projects/All digital phase-locked loops/LF_to_DCO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/LF_to_DCO.v|
+!i113 0
+R11
+R4
+n@l@f_to_@d@c@o
+vLF_to_NCO
+!s110 1784832630
+!i10b 1
+!s100 @AT?T7jj:5WiHB7DW9j<>1
+R7
+I_XbKeSC4ZY]<J:m3GGl1z3
+R0
+w1784832625
+8C:/Projects/All digital phase-locked loops/LF_to_NCO.v
+FC:/Projects/All digital phase-locked loops/LF_to_NCO.v
+!i122 71
+R24
+R8
+R9
+r1
+!s85 0
+31
+!s108 1784832630.000000
+!s107 C:/Projects/All digital phase-locked loops/LF_to_NCO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/LF_to_NCO.v|
+!i113 0
+R11
+R4
+n@l@f_to_@n@c@o
+vMASH_1
+R19
+!i10b 1
+!s100 R_EgKo;X9E_D23Ya?IIH23
+R7
+IBjkiGc^2?I]TE>IRNB9mm3
+R0
+Z25 w1784827255
+Z26 8C:/Projects/All digital phase-locked loops/MASH_1-1.v
+Z27 FC:/Projects/All digital phase-locked loops/MASH_1-1.v
+!i122 52
+L0 56 29
+R8
+R9
+r1
+!s85 0
+31
+R20
+Z28 !s107 C:/Projects/All digital phase-locked loops/MASH_1-1.v|
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/MASH_1-1.v|
+!i113 0
+R11
+R4
+n@m@a@s@h_1
+vMASH_11
+R19
+!i10b 1
+!s100 [Oi24z`6zoaA^aQbk@B^[3
+R7
+I?CnB=lmI27E_<JW>nC6_k1
+R0
+R25
+R26
+R27
+!i122 52
+R24
+R8
+R9
+r1
+!s85 0
+31
+R20
+R28
+R29
+!i113 0
+R11
+R4
+n@m@a@s@h_11
+vNCO
+R21
+!i10b 1
+!s100 eYGfm7@:;4Th@X9g8?@2^2
+R7
+INjgcYUeU0G_4RnXIY6fh;0
+R0
+w1784807292
+8C:/Projects/All digital phase-locked loops/NCO.v
+FC:/Projects/All digital phase-locked loops/NCO.v
+!i122 38
+L0 3 33
+R8
+R9
+r1
+!s85 0
+31
+R22
+!s107 C:/Projects/All digital phase-locked loops/NCO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/NCO.v|
+!i113 0
+R11
+R4
+n@n@c@o
+vNCP
+R21
+!i10b 1
+!s100 @R0dm[ZD?`RD84D6E4QL>3
+R7
+IMMB[MX8z>I9LEzmVokX8C0
+R0
+w1784807346
+8C:/Projects/All digital phase-locked loops/NCP.v
+FC:/Projects/All digital phase-locked loops/NCP.v
+!i122 43
+L0 4 12
+R8
+R9
+r1
+!s85 0
+31
+R22
+!s107 C:/Projects/All digital phase-locked loops/NCP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/NCP.v|
+!i113 0
+R11
+R4
+n@n@c@p
+vPFD
+R21
+!i10b 1
+!s100 TLlkkNURljf@X0W4fAkh42
+R7
+I8:o^iIMYQPQUG7_W@9l>R1
+R0
+w1784807887
+8C:/Projects/All digital phase-locked loops/PFD.v
+FC:/Projects/All digital phase-locked loops/PFD.v
+!i122 39
+L0 3 18
+R8
+R9
+r1
+!s85 0
+31
+R22
+!s107 C:/Projects/All digital phase-locked loops/PFD.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/PFD.v|
+!i113 0
+R11
+R4
+n@p@f@d
+vPNCP
+R21
+!i10b 1
+!s100 =@kZWa@QmI_aVmU_AWPFf3
+R7
+I3IQVPZ9nk6BnLXnH20MBQ3
+R0
+w1784807400
+8C:/Projects/All digital phase-locked loops/PNCP.v
+FC:/Projects/All digital phase-locked loops/PNCP.v
+!i122 42
+L0 4 18
+R8
+R9
+r1
+!s85 0
+31
+R22
+!s107 C:/Projects/All digital phase-locked loops/PNCP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/PNCP.v|
+!i113 0
+R11
+R4
+n@p@n@c@p
+vTDC
+R21
+!i10b 1
+!s100 1>_:3SEf;djXzc3Ia17>h3
+R7
+I64?Bb@AOKd=R=TOMadWOB2
+R0
+w1784807451
+8C:/Projects/All digital phase-locked loops/TDC.v
+FC:/Projects/All digital phase-locked loops/TDC.v
+!i122 40
+L0 4 92
+R8
+R9
+r1
+!s85 0
+31
+R22
+!s107 C:/Projects/All digital phase-locked loops/TDC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Projects/All digital phase-locked loops/TDC.v|
+!i113 0
+R11
+R4
+n@t@d@c
